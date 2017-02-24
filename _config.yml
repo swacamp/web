@@ -3,6 +3,8 @@
 port: 4000
 host: 0.0.0.0
 safe: false
+mapping:
+    provider: google_static
 
 
 ### site serving configuration ###

@@ -369,3 +369,6 @@ ul.sponsors li {
 ul.sponsors li img {
   width: 170px;
 }
+img.logoTNG {
+  width: 250px !important;
+}

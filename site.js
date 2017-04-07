@@ -28,7 +28,7 @@ $.extend($.easing,
         //attatch click listeners
     	navItems.on('click', function(event){
             var navID = $(this).attr("href").substring(1);
-            if (navID.indexOf("lang=") !== -1) {
+            if (navID.length === 0) {
                 return true;
             }
             event.preventDefault();
@@ -61,7 +61,7 @@ $.extend($.easing,
     function populateDestinations() {
         navItems.each(function(){
             var scrollID = $(this).attr('href').substring(1);
-            if (scrollID.indexOf("lang=") !== -1) {
+            if (scrollID.length === 0) {
                 return;
             }
             navs[scrollID] = (settings.activateParentNode)? this.parentNode : this;
@@ -78,18 +78,24 @@ $.extend($.easing,
 
 function evaluateLanguage() {
     var lang = $.urlParam("lang");
-    if (!lang || lang === 'en') {
-        $(".de").remove();
-    } else { // de
-        $(".en").remove();
+    if (lang === 'de') {
+        $(".en").hide();
+    } else { // en
+        $(".de").hide();
     }
+}
+
+function toggleLanguage()
+{
+    $(".de").toggle();
+    $(".en").toggle();
 }
 
 $.urlParam = function (name) {
     var results = new RegExp('[\?&]' + name + '=([^&#]*)')
         .exec(window.location.href);
 
-    return results[1] || 0;
+    return results ? results[1] || 0 : 0;
 };
 
 $(document).ready(function (){

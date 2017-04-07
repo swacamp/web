@@ -1,11 +1,11 @@
 ---
-title: "Anfahrt"
+title: "Location"
 bg: '#63BD2F'
 color: white
 fa-icon: map-marker
 ---
 
-## Anfahrt
+## Location
 
 #### Adresse
 

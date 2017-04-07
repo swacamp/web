@@ -21,7 +21,7 @@ $.extend($.easing,
         settings = $.extend({
             scrollToOffset: 170,
             scrollSpeed: 800,
-            activateParentNode: true,
+            activateParentNode: true
         }, options );
         navItems = this;
 

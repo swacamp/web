@@ -359,3 +359,13 @@ nav ul li:hover, nav ul li.active {
 nav ul li.languageSwitch {
   border-top: 0 transparent;
 }
+
+ul.sponsors li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px 20px 20px;
+}
+
+ul.sponsors li img {
+  width: 170px;
+}

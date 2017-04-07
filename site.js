@@ -27,8 +27,11 @@ $.extend($.easing,
 
         //attatch click listeners
     	navItems.on('click', function(event){
-    		event.preventDefault();
             var navID = $(this).attr("href").substring(1);
+            if (navID.indexOf("lang=") !== -1) {
+                return true;
+            }
+            event.preventDefault();
             disableScrollFn = true;
             activateNav(navID);
             populateDestinations(); //recalculate these!
@@ -58,6 +61,9 @@ $.extend($.easing,
     function populateDestinations() {
         navItems.each(function(){
             var scrollID = $(this).attr('href').substring(1);
+            if (scrollID.indexOf("lang=") !== -1) {
+                return;
+            }
             navs[scrollID] = (settings.activateParentNode)? this.parentNode : this;
             sections[scrollID] = $(document.getElementById(scrollID)).offset().top;
         });
@@ -70,8 +76,25 @@ $.extend($.easing,
 })( jQuery );
 
 
+function evaluateLanguage() {
+    var lang = $.urlParam("lang");
+    if (!lang || lang === 'en') {
+        $(".de").remove();
+    } else { // de
+        $(".en").remove();
+    }
+}
+
+$.urlParam = function (name) {
+    var results = new RegExp('[\?&]' + name + '=([^&#]*)')
+        .exec(window.location.href);
+
+    return results[1] || 0;
+};
+
 $(document).ready(function (){
 
+    evaluateLanguage();
     $('nav li a').navScroller();
 
     //section divider icon click gently scrolls to reveal the section

@@ -375,3 +375,7 @@ ul.sponsors li img {
 img.logoTNG {
   width: 250px !important;
 }
+
+.logo {
+  padding: 20px;
+}

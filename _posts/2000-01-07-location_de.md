@@ -44,4 +44,9 @@ Siehe Karte unten. TNG-Parkplätze befinden sich direkt vor dem Haupteingang sow
 
 #### Hotel
 
-<span style="color:red">TODO</span>
+Das <a href="http://www.hotel-the-k.de">Best Western Hotel "The K"</a> befindet sich ca. 5 Minuten zu Fuß von TNG entfernt. Wir haben dort vergünstigte Zimmer organisiert:
+
+* Einzelzimmer 89,00 € statt 101,00 € / Nacht
+* Doppelzimmer 99,00 € statt 120,00 € / Nacht
+
+Die Zimmer sind unter dem Stichwort ```swacamp``` abrufbar und bis sieben Tage vor Anreise kostenfrei stornierbar. Die Bezahlung ist vor Ort. Ein Frühstück inklusive.

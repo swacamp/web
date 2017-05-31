@@ -7,7 +7,7 @@ fa-icon: map-marker
 
 ## Location
 
-#### Addresse
+#### Adresse
 
 <p>TNG Technology Consulting GmbH, <a href="https://www.tngtech.com">https://www.tngtech.com</a><br/>
 Beta-Straße 13a<br/>
@@ -17,8 +17,8 @@ Deutschland</p>
 
 #### Mit der S-Bahn
 
-Line S8, Station Unterföhring,
-Linie S8, Haltestelle Unterföhring, Haltestelle nach Süden verlassen, nach ca. 200 m nach links (Richtung Osten) in den Heinrich-Hildebrand-Fußweg abbiegen, diesem für ca. 800 m folgen.
+Linie S8 Richtung Flughafen, Station Unterföhring.
+Den Bahnhof Richtung Süden verlassen, nach ca. 200m nach links (Richtung Osten) in den Heinrich-Hildebrand-Fußweg abbiegen, diesem für ca. 800m folgen.
 
 
 #### Mit dem Bus
@@ -33,7 +33,7 @@ Linie 234, Haltestelle Heinrich-Hildebrand-Weg
 
 #### Mit dem Auto
 
-Siehe Karte unten. TNG-Parkplätze befinden sich direkt vor dem Haupteingang sowie in der Tiefgarage. Sollten diese Plätze belegt sein, gibt es weitere Parkmöglichkeiten auf dem öffentlichen Parkplatz am südlichen Ende der Beta-Straße.
+Siehe Karte unten. TNG-Parkplätze befinden sich direkt vor dem Haupteingang sowie in der Tiefgarage. Falls bereits alle belegt sind, gibt es weitere Parkmöglichkeiten auf dem öffentlichen Parkplatz am südlichen Ende der Beta-Straße.
 
 
 #### Karte

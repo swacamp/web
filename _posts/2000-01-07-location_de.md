@@ -1,5 +1,5 @@
 ---
-title: "Lokation"
+title: "Location"
 bg: '#63BD2F'
 color: white
 fa-icon: map-marker

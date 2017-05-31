@@ -379,3 +379,17 @@ img.logoTNG {
 .logo {
   width: 400px !important;
 }
+
+.schedule {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.schedule ul {
+    list-style-type: none;
+}
+
+.day {
+    font-weight: bold;
+}

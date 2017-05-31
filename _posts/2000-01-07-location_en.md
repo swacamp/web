@@ -9,10 +9,10 @@ fa-icon: map-marker
 
 #### Address
 
-<p>TNG Technology Consulting GmbH<br/>
-Betastraße 13a<br/>
-85774 Unterföhring<br/>
-Deutschland</p>
+<p>TNG Technology Consulting GmbH, <a href="https://www.tngtech.com">https://www.tngtech.com</a><br/>
+Beta-Straße 13a<br/>
+85774 Unterföhring near Munich<br/>
+Germany</p>
 
 
 #### By Suburban Train

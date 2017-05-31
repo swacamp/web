@@ -1,5 +1,5 @@
 ---
-title: "Anmeldung"
+title: "Anmmmmeldung"
 bg: 'red'
 color: black
 fa-icon: check-circle-o

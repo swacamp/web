@@ -1,8 +1,8 @@
 <br/>
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV bzw. Angaben gemäß § 5 TMG:
-<p>Gerhard Müller <br/>
-Lerchenstr. 3b <br/>
-85630 Neukeferloh<br/>
+<p>TNG Technology Consulting GmbH <br/>
+Beta-Straße 13a <br/>
+85774 Unterföhring bei München<br/>
 </p>
 
 <p>

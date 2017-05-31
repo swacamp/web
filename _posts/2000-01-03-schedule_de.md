@@ -1,10 +1,10 @@
 ---
-title: "Schedule"
+title: "Zeitplan"
 bg: orange
 color: black
 fa-icon: calendar
 ---
 
-## Schedule
+## Zeitplan
 
 <span style="color:red">TODO</span>

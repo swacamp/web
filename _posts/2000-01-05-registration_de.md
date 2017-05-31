@@ -1,10 +1,10 @@
 ---
-title: "Registration"
+title: "Registrierung"
 bg: 'red'
 color: black
 fa-icon: check-circle-o
 ---
 
-## Registration
+## Registrierung
 
 <span style="color:red">TODO</span>

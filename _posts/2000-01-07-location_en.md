@@ -47,9 +47,10 @@ If those lots are taken, more public parking lots can be found at the southern e
 
 #### Hotel
 
-The <a href="http://www.hotel-the-k.de">Best Western Hotel "The K"</a> is located five walking minutes away from TNG. We organized some discounted rooms:
+The <a href="http://www.hotel-the-k.de">Best Western Hotel "The K"</a> is located five walking minutes away from TNG. 
+Discounted rooms are available:
 
 * Single room 89,00 € instead of 101,00 € / night
 * Double room 99,00 € instead of 120,00 € / night
 
-The rooms can be booked directly at the hotel with the keyword ```swacamp``` and canceled prior seven days before arrival at no charge. The payment is on-site. Breakfast is included.
+The rooms can be booked by contacting the hotel using the keyword ```swacamp``` and be canceled seven days before arrival at no charge. The payment is on-site. Breakfast is included.

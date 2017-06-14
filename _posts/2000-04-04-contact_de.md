@@ -5,13 +5,12 @@ color: black
 fa-icon: envelope
 ---
 
-## Contact
+## Kontakt
 
-Unser Organisationsteam ist gemeinsam unter folgenden Kanälen erreichbar:
+Unser Organisationsteam ist gemeinsam über folgende Kanäle erreichbar:
 
 * E-Mail unter <info@swacamp.org>
 * Twitter als [@swacamp](https://twitter.com/swacamp)
-
 
 ### Moderation
 

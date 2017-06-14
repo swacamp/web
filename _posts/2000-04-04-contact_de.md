@@ -2,7 +2,7 @@
 title: "Kontakt"
 bg: orange
 color: black
-fa-icon: microphone
+fa-icon: envelope
 ---
 
 ## Contact

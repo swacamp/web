@@ -7,7 +7,7 @@ fa-icon: calendar
 
 ## Zeitplan
 
-Während der Konferenz findet sich der vollständige Zeitplan <a href="schedule">hier</a>.
+Während der Konferenz ist der vollständige Zeitplan <a href="schedule">hier</a> zu finden.
 <table class="schedule">
     <tr>
         <td class="day">Freitag</td>

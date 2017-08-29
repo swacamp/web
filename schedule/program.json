@@ -1,0 +1,195 @@
+[
+  {
+    "id": null,
+    "title": null,
+    "date": null,
+    "time": null,
+    "mins": null,
+    "tags": [
+      null,
+      null,
+      null
+    ],
+    "loc": [
+      null
+    ],
+    "desc": null,
+    "people": []
+  },
+  {
+    "id": "1002",
+    "title": "Socialising / Dinner",
+    "date": "2017-09-08",
+    "time": "18:00",
+    "mins": "120",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2002",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1003",
+    "title": "Breakfast",
+    "date": "2017-09-09",
+    "time": "09:00",
+    "mins": "30",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1004",
+    "title": "Marketplace",
+    "date": "2017-09-09",
+    "time": "09:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "basement"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1005",
+    "title": "Lunch",
+    "date": "2017-09-09",
+    "time": "12:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1006",
+    "title": "Socialising / Dinner",
+    "date": "2017-09-09",
+    "time": "18:00",
+    "mins": "120",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1007",
+    "title": "Breakfast",
+    "date": "2017-09-10",
+    "time": "09:00",
+    "mins": "30",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1008",
+    "title": "Marketplace",
+    "date": "2017-09-10",
+    "time": "09:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "basement"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  },
+  {
+    "id": "1009",
+    "title": "Lunch",
+    "date": "2017-09-10",
+    "time": "12:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": "",
+    "people": [
+      {
+        "id": "2003",
+        "name": "everyone"
+      }
+    ]
+  }
+]

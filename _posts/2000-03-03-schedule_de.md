@@ -7,6 +7,7 @@ fa-icon: calendar
 
 ## Zeitplan
 
+Während der Konferenz findet sich der vollständige Zeitplan <a href="schedule">hier</a>.
 <table class="schedule">
     <tr>
         <td class="day">Freitag</td>
@@ -22,7 +23,7 @@ fa-icon: calendar
             <ul>
                 <li>09:00 - Frühstück</li>
                 <li>09:30 - Marktplatz</li>
-                <li>10:00 - Start</li>
+                <li>10:30 - Start</li>
                 <li>ab 12:30 - Mittagessen</li>
                 <li>ab 18:00 - Socializing + Abendessen</li>
             </ul>

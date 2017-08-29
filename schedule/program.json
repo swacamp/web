@@ -30,13 +30,7 @@
     "loc": [
       "2nd floor"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2002",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1003",
@@ -52,13 +46,7 @@
     "loc": [
       "2nd floor"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1004",
@@ -74,13 +62,7 @@
     "loc": [
       "basement"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1005",
@@ -96,13 +78,7 @@
     "loc": [
       "2nd floor"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1006",
@@ -118,13 +94,7 @@
     "loc": [
       "2nd floor"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1007",
@@ -140,13 +110,7 @@
     "loc": [
       "2nd floor"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1008",
@@ -162,13 +126,7 @@
     "loc": [
       "basement"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   },
   {
     "id": "1009",
@@ -184,12 +142,6 @@
     "loc": [
       "2nd floor"
     ],
-    "desc": "",
-    "people": [
-      {
-        "id": "2003",
-        "name": "everyone"
-      }
-    ]
+    "desc": ""
   }
 ]

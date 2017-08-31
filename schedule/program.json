@@ -16,12 +16,15 @@
     "desc": null,
     "people": []
   },
+
+
+
   {
-    "id": "1002",
-    "title": "Socialising / Dinner",
+    "id": "0002",
+    "title": "Socialising + Pizza",
     "date": "2017-09-08",
     "time": "18:00",
-    "mins": "120",
+    "mins": "360",
     "tags": [
       "common",
       "",
@@ -32,6 +35,24 @@
     ],
     "desc": ""
   },
+  {
+    "id": "0001",
+    "title": "Group Lightning Talk",
+    "date": "2017-09-08",
+    "time": "19:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": ""
+  },
+
+
   {
     "id": "1003",
     "title": "Breakfast",
@@ -50,7 +71,7 @@
   },
   {
     "id": "1004",
-    "title": "Marketplace",
+    "title": "Marketplace / Opening the space",
     "date": "2017-09-09",
     "time": "09:30",
     "mins": "60",
@@ -66,9 +87,9 @@
   },
   {
     "id": "1005",
-    "title": "Lunch",
+    "title": "Slot",
     "date": "2017-09-09",
-    "time": "12:30",
+    "time": "10:30",
     "mins": "60",
     "tags": [
       "common",
@@ -76,16 +97,32 @@
       ""
     ],
     "loc": [
-      "2nd floor"
+      "???"
     ],
     "desc": ""
   },
   {
     "id": "1006",
-    "title": "Socialising / Dinner",
+    "title": "Slot",
     "date": "2017-09-09",
-    "time": "18:00",
-    "mins": "120",
+    "time": "11:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "1995",
+    "title": "Lunch",
+    "date": "2017-09-09",
+    "time": "12:30",
+    "mins": "90",
     "tags": [
       "common",
       "",
@@ -98,6 +135,89 @@
   },
   {
     "id": "1007",
+    "title": "Slot",
+    "date": "2017-09-09",
+    "time": "14:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "1008",
+    "title": "Slot",
+    "date": "2017-09-09",
+    "time": "15:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "1009",
+    "title": "Slot",
+    "date": "2017-09-09",
+    "time": "16:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "1996",
+    "title": "Evening News",
+    "date": "2017-09-09",
+    "time": "17:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "1997",
+    "title": "Socialising / Dinner",
+    "date": "2017-09-09",
+    "time": "18:00",
+    "mins": "360",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "2nd floor"
+    ],
+    "desc": ""
+  },
+
+
+
+  {
+    "id": "3007",
     "title": "Breakfast",
     "date": "2017-09-10",
     "time": "09:00",
@@ -113,8 +233,8 @@
     "desc": ""
   },
   {
-    "id": "1008",
-    "title": "Marketplace",
+    "id": "3008",
+    "title": "Marketplace / Opening the space",
     "date": "2017-09-10",
     "time": "09:30",
     "mins": "60",
@@ -129,10 +249,10 @@
     "desc": ""
   },
   {
-    "id": "1009",
-    "title": "Lunch",
+    "id": "3009",
+    "title": "Slot",
     "date": "2017-09-10",
-    "time": "12:30",
+    "time": "10:30",
     "mins": "60",
     "tags": [
       "common",
@@ -140,7 +260,87 @@
       ""
     ],
     "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3010",
+    "title": "Slot",
+    "date": "2017-09-10",
+    "time": "11:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3009",
+    "title": "Lunch",
+    "date": "2017-09-10",
+    "time": "12:30",
+    "mins": "90",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
       "2nd floor"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3010",
+    "title": "Slot (optional)",
+    "date": "2017-09-10",
+    "time": "14:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3011",
+    "title": "Slot (optional)",
+    "date": "2017-09-10",
+    "time": "15:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3010",
+    "title": "Slot (optional)",
+    "date": "2017-09-10",
+    "time": "16:00",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "???"
     ],
     "desc": ""
   }

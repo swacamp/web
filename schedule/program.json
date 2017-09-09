@@ -282,10 +282,10 @@
   },
   {
     "id": "3009",
-    "title": "Lunch",
+    "title": "Closing the space / Lunch",
     "date": "2017-09-10",
     "time": "12:30",
-    "mins": "90",
+    "mins": "120",
     "tags": [
       "common",
       "",
@@ -300,7 +300,7 @@
     "id": "3010",
     "title": "Slot (optional)",
     "date": "2017-09-10",
-    "time": "14:00",
+    "time": "14:30",
     "mins": "60",
     "tags": [
       "common",
@@ -316,7 +316,7 @@
     "id": "3011",
     "title": "Slot (optional)",
     "date": "2017-09-10",
-    "time": "15:00",
+    "time": "15:30",
     "mins": "60",
     "tags": [
       "common",
@@ -332,7 +332,7 @@
     "id": "3010",
     "title": "Slot (optional)",
     "date": "2017-09-10",
-    "time": "16:00",
+    "time": "16:30",
     "mins": "60",
     "tags": [
       "common",

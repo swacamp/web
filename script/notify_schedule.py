@@ -30,10 +30,9 @@ now = datetime.datetime.now()
 r = requests.get('http://swacamp.org/schedule/program.json')
 
 minute = now.minute
-timeToLookFor = calculateTimeToLookForInSchedule(now)
-dateToLookFor = datetime.date.today()
-
-dateToLookFor = "2017-09-09"
+#timeToLookFor = calculateTimeToLookForInSchedule(now)
+dateToLookFor = str(datetime.date.today())
+timeToLookFor="10:30"
 
 
 json = r.json()
@@ -41,5 +40,3 @@ forDay = filter(lambda x: x['date'] == dateToLookFor, json)
 forTime = filter(lambda x: x['time'] == timeToLookFor, forDay)
 
 print dateToLookFor + " " + timeToLookFor + ": found:" + str(forTime)
-if len(forTime) > 0:
-    sendNotificationToSlackFor(forTime)

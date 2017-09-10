@@ -725,7 +725,7 @@
     "id": "3014",
     "title": "arc42 Einführung",
     "date": "2017-09-10",
-    "time": "14:30",
+    "time": "14:00",
     "mins": "60",
     "tags": [
       "common",
@@ -855,6 +855,38 @@
     "date": "2017-09-10",
     "time": "13:00",
     "mins": "45",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Sitzecke"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3022",
+    "title": "Bomb Diffusal",
+    "date": "2017-09-10",
+    "time": "14:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Sitzecke 2.OG"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3023",
+    "title": "Impact des Architekten - habe ich genug gelernt",
+    "date": "2017-09-10",
+    "time": "16:30",
+    "mins": "60",
     "tags": [
       "common",
       "",

@@ -482,7 +482,7 @@
     ],
     "desc": ""
   },
-  
+
   {
     "id": "1033",
     "title": "Wie machen wir Architektur Remote und Arc42",
@@ -639,38 +639,7 @@
     ],
     "desc": ""
   },
-  {
-    "id": "3009",
-    "title": "Slot",
-    "date": "2017-09-10",
-    "time": "10:30",
-    "mins": "60",
-    "tags": [
-      "common",
-      "",
-      ""
-    ],
-    "loc": [
-      "???"
-    ],
-    "desc": ""
-  },
-  {
-    "id": "3010",
-    "title": "Slot",
-    "date": "2017-09-10",
-    "time": "11:30",
-    "mins": "60",
-    "tags": [
-      "common",
-      "",
-      ""
-    ],
-    "loc": [
-      "???"
-    ],
-    "desc": ""
-  },
+
   {
     "id": "3009",
     "title": "Closing the space / Lunch",
@@ -687,9 +656,58 @@
     ],
     "desc": ""
   },
+
   {
     "id": "3010",
-    "title": "Slot (optional)",
+    "title": "Mutation Testing Dojo",
+    "date": "2017-09-10",
+    "time": "10:30",
+    "mins": "120",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Riegel"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3011",
+    "title": "Resilience",
+    "date": "2017-09-10",
+    "time": "10:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Traal"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3012",
+    "title": "Good Read",
+    "date": "2017-09-10",
+    "time": "12:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Lunch"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3013",
+    "title": "EsLint Regeln Workshop",
     "date": "2017-09-10",
     "time": "14:30",
     "mins": "60",
@@ -699,13 +717,93 @@
       ""
     ],
     "loc": [
-      "???"
+      "Riegel"
     ],
     "desc": ""
   },
   {
-    "id": "3011",
-    "title": "Slot (optional)",
+    "id": "3014",
+    "title": "arc42 Einführung",
+    "date": "2017-09-10",
+    "time": "14:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Frogstar"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3015",
+    "title": "Architektur on fire",
+    "date": "2017-09-10",
+    "time": "11:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Rupert"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3016",
+    "title": "How to say no to your customer",
+    "date": "2017-09-10",
+    "time": "11:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Sitzecke"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3017",
+    "title": "Organisationsentwicklung und Softwarearchitektur",
+    "date": "2017-09-10",
+    "time": "10:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Sitzecke"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3018",
+    "title": "AIM42.org",
+    "date": "2017-09-10",
+    "time": "14:30",
+    "mins": "60",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Frogstar"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3019",
+    "title": "Domain Driven Design",
     "date": "2017-09-10",
     "time": "15:30",
     "mins": "60",
@@ -715,15 +813,31 @@
       ""
     ],
     "loc": [
-      "???"
+      "Riegel"
     ],
     "desc": ""
   },
   {
-    "id": "3010",
-    "title": "Slot (optional)",
+    "id": "3020",
+    "title": "Architektur Kata",
     "date": "2017-09-10",
-    "time": "16:30",
+    "time": "10:30",
+    "mins": "120",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Untwelt"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3022",
+    "title": "Architektur Kata Part 2",
+    "date": "2017-09-10",
+    "time": "14:30",
     "mins": "60",
     "tags": [
       "common",
@@ -731,8 +845,25 @@
       ""
     ],
     "loc": [
-      "???"
+      "Unterwelt"
+    ],
+    "desc": ""
+  },
+  {
+    "id": "3021",
+    "title": "Feuerwehr",
+    "date": "2017-09-10",
+    "time": "13:00",
+    "mins": "45",
+    "tags": [
+      "common",
+      "",
+      ""
+    ],
+    "loc": [
+      "Sitzecke"
     ],
     "desc": ""
   }
+
 ]

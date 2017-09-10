@@ -1,6 +1,6 @@
 import requests
 import datetime
-
+from urllib import quote
 
 def calculateTimeToLookForInSchedule(date):
     minute = date.minute
@@ -13,13 +13,13 @@ def calculateTimeToLookForInSchedule(date):
         return formatTime(hour, 30)
 
 
-def sendNotificationToSlackFor(entries):
+def sendNotificationToSlackFor(entries, day, time):
     text = reduce(lambda x, y: x + '\n' + y,
                   map(lambda x: x['loc'][0] + ": " + x['title'], entries)
                   )
-    text = "*Now starting*:\n" + text
-    requests.post('https://hooks.slack.com/services/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',
-                      data='{"text":"' + text + '"}')
+    text = "@channel *Now starting " + day + " " + time + "*\n" + text
+    r = requests.post('$$$ADD_URL$$$',
+                      data='{"text":"' + text.encode('utf-8') + '"}')
 
 
 def formatTime(hour, minute):
@@ -27,16 +27,18 @@ def formatTime(hour, minute):
 
 
 now = datetime.datetime.now()
-r = requests.get('http://swacamp.org/schedule/program.json')
+r = requests.get('https://raw.githubusercontent.com/swacamp/web/gh-pages/schedule/program.json')
 
 minute = now.minute
-#timeToLookFor = calculateTimeToLookForInSchedule(now)
+timeToLookFor = calculateTimeToLookForInSchedule(now)
+#timeToLookFor="15:00"
 dateToLookFor = str(datetime.date.today())
-timeToLookFor="10:30"
-
-
 json = r.json()
 forDay = filter(lambda x: x['date'] == dateToLookFor, json)
 forTime = filter(lambda x: x['time'] == timeToLookFor, forDay)
 
-print dateToLookFor + " " + timeToLookFor + ": found:" + str(forTime)
+print forDay
+print forTime
+if len(forTime) > 0:
+    sendNotificationToSlackFor(forTime, dateToLookFor, timeToLookFor)
+

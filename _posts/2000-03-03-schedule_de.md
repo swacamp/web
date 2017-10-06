@@ -7,4 +7,4 @@ fa-icon: calendar
 
 ## Zeitplan
 
-Der vorläufige Zeitplan ist <a href="schedule">hier</a> zu finden.
+Der Zeitplan und die Ergebnisse der Veranstaltung 2017 sind <a href="schedule_2017">hier</a> zu finden.

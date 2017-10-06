@@ -7,4 +7,4 @@ fa-icon: calendar
 
 ## Schedule
 
-The preliminary schedule can be found <a href="schedule">here</a>.
+The schedule and the results of the event in 2017 can be found <a href="schedule_2017">here</a>.

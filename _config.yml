@@ -16,8 +16,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SwaCamp Munich 2017"
-keywords:    "swacamp, muc, münchen, 2017"
+title:       "SwaCamp Munich 2018"
+keywords:    "swacamp, muc, münchen, 2018"
 description: "SwaCamp München"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"

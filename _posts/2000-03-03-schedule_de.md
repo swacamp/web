@@ -9,4 +9,4 @@ fa-icon: calendar
 
 Der Zeitplan und die Ergebnisse der Veranstaltung 2017 sind <a href="schedule_2017">hier</a> zu finden.
 
-Der Zeitplan für 2018 steht noch nicht fest.
+Für 2018 freuen wir uns bereits auf zwei tolle Keynote-Speaker: Dr. Gernot Starke und Michael Plöd.

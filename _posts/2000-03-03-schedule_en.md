@@ -9,4 +9,4 @@ fa-icon: calendar
 
 The schedule and the results of the event in 2017 can be found <a href="schedule_2017">here</a>.
 
-The schedule for 2018 has not yet been defined.
+For 2018 we are happy to announce our keynote speakers Dr. Gernot Starke and Michael Plöd.

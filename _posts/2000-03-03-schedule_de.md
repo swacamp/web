@@ -15,12 +15,12 @@ Unser vorläufiges Programm:
         <td class="day">Freitag</td>
         <td>
             <ul>
-                <li>9:00 - 9:30 Uhr Ankommen</li>
-                <li>9:30 - 10:15 Uhr Keynote</li>
+                <li>09:00 - 09:30 Uhr Ankommen</li>
+                <li>09:30 - 10:15 Uhr Keynote</li>
                 <li>10:30 - 11:00 Uhr Begrüßung</li>
-                <li>11:00 - 11:30 Uhr Marktplatz</li>
-                <li>11:30 - 12:30 Uhr Session</li>
-                <li>12:30 - 14:00 Uhr Mittagessen</li>
+                <li>11:00 - 12:00 Uhr Marktplatz</li>
+                <li>12:00 - 13:00 Uhr Session</li>
+                <li>13:00 - 14:00 Uhr Mittagessen</li>
                 <li>14:00 - 15:00 Uhr Session</li>
                 <li>15:15 - 16:15 Uhr Session</li>
                 <li>16:25 - 17:25 Uhr Session</li>
@@ -33,15 +33,15 @@ Unser vorläufiges Programm:
         <td class="day">Samstag</td>
         <td>
             <ul>
-                <li>9:00 - 9:30 Uhr Frühstück</li>
-                <li>9:30 - 10:15 Uhr Keynote</li>
-                <li>10:30 - 11:00 Uhr Marktplatz</li>
-                <li>11:00 - 12:00 Uhr Session</li>
-                <li>12:00 - 13:00 Uhr Mittagessen</li>
-                <li>13:00 - 14:00 Uhr Session</li>
-                <li>14:15 - 15:15 Uhr Session</li>
-                <li>15:25 - 16:25 Uhr Session</li>
-                <li>16:25 - 17:00 Uhr Abschluss der Konferenz</li>
+                <li>09:00 - 09:30 Uhr Frühstück</li>
+                <li>09:30 - 10:15 Uhr Keynote</li>
+                <li>10:30 - 11:30 Uhr Marktplatz</li>
+                <li>11:30 - 12:30 Uhr Session</li>
+                <li>12:30 - 13:30 Uhr Mittagessen</li>
+                <li>13:30 - 14:30 Uhr Session</li>
+                <li>14:45 - 15:45 Uhr Session</li>
+                <li>15:50 - 16:20 Uhr Session</li>
+                <li>16:20 - 17:20 Uhr Abschluss der Konferenz</li>
                 <li>danach: gemütlicher Ausklang</li>
             </ul>
         </td>

@@ -2,7 +2,7 @@
 title: "Anmeldung"
 bg: 'red'
 color: black
-fa-icon: check-circle-o
+fa-icon: check-circle
 ---
 
 ## Registrierung

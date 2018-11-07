@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-bg: orange
+bg: '#84ffdc'
 color: black
 fa-icon: envelope
 ---

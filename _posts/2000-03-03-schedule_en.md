@@ -17,7 +17,7 @@ Our preliminary schedule:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Arriving</li>
-                <li>09:30 - 10:15 Uhr Keynote</li>
+                <li>09:30 - 10:15 Uhr Keynote: Knigge für Softwarearchitekten (Deutsch)</li>
                 <li>10:30 - 11:00 Uhr Introduction</li>
                 <li>11:00 - 12:00 Uhr Market Place</li>
                 <li>12:00 - 12:30 Uhr Session</li>

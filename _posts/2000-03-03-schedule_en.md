@@ -9,6 +9,8 @@ fa-icon: calendar
 
 For 2018 we are happy to announce our keynote speakers Dr. Gernot Starke and Michael Plöd.
 
+During the conference you can find the schedule <a href="schedule_2018">here</a>. 
+
 Our preliminary schedule:
 
 <table class="schedule">

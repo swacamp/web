@@ -9,6 +9,8 @@ fa-icon: calendar
 
 Für 2018 freuen wir uns bereits auf zwei tolle Keynote-Speaker: Dr. Gernot Starke und Michael Plöd.
 
+Während der Konferenz ist das aktuelle Programm <a href="schedule_2018">hier</a> zu finden.
+
 Unser vorläufiges Programm:
 <table class="schedule">
     <tr>

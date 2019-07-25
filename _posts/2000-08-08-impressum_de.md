@@ -1,8 +1,8 @@
 ---
-title: "Location"
+title: "Impressum"
 bg: '#63BD2F'
 color: white
-fa-icon: map-marker
+fa-icon: info
 ---
 
 ## Impressum

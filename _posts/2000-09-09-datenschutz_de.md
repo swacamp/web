@@ -1,8 +1,8 @@
 ---
-title: "Location"
-bg: '#63BD2F'
+title: "Datenschutz"
+bg: 'grey'
 color: white
-fa-icon: map-marker
+fa-icon: user-shield
 ---
 
 ## Datenschutzerklärung der iteratec GmbH

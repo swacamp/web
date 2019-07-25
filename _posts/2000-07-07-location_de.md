@@ -12,8 +12,8 @@ fa-icon: map-marker
 <p>iteratec GmbH, <a href="https:www.iteratec.de">https:www.iteratec.de</a><br/>
 St.-Martin-Straße 114<br/>
 81669 München <br/>
-Germany<br/>
-Phone: 089 / 61 45 51 - 0
+Deutschland<br/>
+Telefon: 089 / 61 45 51 - 0
 <p>
 
 

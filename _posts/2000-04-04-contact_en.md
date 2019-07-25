@@ -10,4 +10,4 @@ fa-icon: envelope
 The organizing team as a whole can be reached the following ways:
 
 * E-mail via <info@swacamp.org>
-* Twitter as [@swacamp](https://twitter.com/swacamp)
+

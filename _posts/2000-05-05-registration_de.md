@@ -7,4 +7,4 @@ fa-icon: check-circle
 
 ## Registrierung
 
-Leider ist das SwaCamp für dieses Jahr ausgebucht.
+Die Registrierung ist ab 2. September 2019 möglich.

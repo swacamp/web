@@ -9,10 +9,12 @@ fa-icon: map-marker
 
 #### Adresse
 
-<p>TNG Technology Consulting GmbH, <a href="https://www.tngtech.com">https://www.tngtech.com</a><br/>
-Beta-Straße 13a<br/>
-85774 Unterföhring<br/>
-Deutschland</p>
+<p>iteratec GmbH, <a href="https:www.iteratec.de">https:www.iteratec.de</a><br/>
+St.-Martin-Straße 114<br/>
+81669 München <br/>
+Germany<br/>
+Phone: 089 / 61 45 51 - 0
+<p>
 
 
 #### Mit der S-Bahn

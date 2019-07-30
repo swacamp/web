@@ -45,7 +45,7 @@ With a bit of luck, you can also find a parking space on the St. Martin or on th
 
 ### Hotel
 
-####JOYN  Munich Rose - Serviced Living<br/>
+#### JOYN  Munich Rose - Serviced Living<br/>
 Rosenheimer Str. 145K<br/>
 81671 München<br/>
 Reservation via <a href="mailto:hello@joyn-living.com">hello@joyn-living.com</a> <br/>
@@ -53,7 +53,7 @@ Please use promotion code iteratec2019.<br/>
 •	Single room 70 € (+4,90 € for optional breakfast)<br/>
 •	Double room 86 € (+4,90 € for optional breakfast)<br/>
 
-####Hotel BOLD - München Giesing<br/>
+#### Hotel BOLD - München Giesing<br/>
 Aschauer Str. 12<br/>
 81549 München<br/>
 Reservation: <a href="http://bold-hotels.com/hotel-muenchen.html">http://bold-hotels.com/hotel-muenchen.html</a><br/> 

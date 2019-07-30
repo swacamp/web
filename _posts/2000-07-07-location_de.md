@@ -44,7 +44,7 @@ Mit ein bisschen Glück finden Sie auch auf der St.-Martin- oder Balanstraße am
 
 #### Hotel
 
-####JOYN  Munich Rose - Serviced Living<br/>
+#### JOYN  Munich Rose - Serviced Living<br/>
 
 Rosenheimer Str. 145K<br/>
 81671 München<br/>
@@ -53,7 +53,7 @@ mit dem Buchungscode iteratec201 .<br/>
 •	Einzelzimmer 75€ (+4,90€ Frühstück optional)<br/>
 •	Doppelzimmer 125€ (+4,90€ Frühstück optional)<br/>
 
-####Hotel BOLD - München Giesing<br/>
+#### Hotel BOLD - München Giesing<br/>
 
 Aschauer Str. 12<br/>
 81549 München<br/>

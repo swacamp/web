@@ -7,4 +7,4 @@ fa-icon: check-circle
 
 ## Registrierung
 
-Die Registrierung ist ab 2. September 2019 möglich.
+Die Registrierung ist ab dem 2. September 2019 möglich.

@@ -9,45 +9,58 @@ fa-icon: map-marker
 
 #### Address
 
-<p>TNG Technology Consulting GmbH, <a href="https://www.tngtech.com">https://www.tngtech.com</a><br/>
-Beta-Straße 13a<br/>
-85774 Unterföhring near Munich<br/>
-Germany</p>
+<p>iteratec GmbH, <a href="https:www.iteratec.de">https:www.iteratec.de</a><br/>
+St.-Martin-Straße 114<br/>
+81669 München <br/>
+Germany<br/>
+Phone: 089 / 61 45 51 - 0
+</p>
 
 
-#### By Suburban Train
+#### By Suburban Train or Bus
 
-Line S8, Station Unterföhring,
-Leave the station southward, turn left after about 200m to the left (eastward) into the Heinrich-Hildebrand pedestrian way and follow it for about 800m.
+Most "Deutsche Bahn" trains go to the main station. From there please take the S-Bahn towards Ostbahnhof, or the U4 / U5 direction Arabellapark / Neuperlach Süd. Get off at Munich Ostbahnhof and either walk for 13 minutes or take the subway line. Change to U1 / U2 / U7 direction Neuperlach Zentrum / Messestadt Ost and get off at Karl-Preis-Platz. From there it is a 6-minute walk to St.-Martin-Straße 114.
+Another option is the S3 from Ostbahnhof direction Taufkirchen. Please get off at the stop St.-Martin-Straße and walk for 9 minutes. 
 
-
-#### By Bus
-
-You can read TNG by taking one of the following bus lines:
-
-* Line 189, Station Dieselstraße
-* Line 232, Station Unterföhring suburban station
-* Line 233, Station Betastraße
-* Line 234, Station Heinrich-Hildebrand-Weg
+Even closer is the bus line 145 direction Fasangarten, also from the Ostbahnhof. Here is the exit on Anzinger Straße, walking time 3 minutes to St.-Martin-Straße 114.
 
 
 #### By Car
 
-See the map on the bottom. Parking lots can be found directly in front of the main entrance and within the underground parking.
+Enter St.-Martin-Straße 114, 81669 into the navigation device. The fastest way via one of the motorways is the A94.
 
-If those lots are taken, more public parking lots can be found at the southern end of the Betastraße. 
+Drive over Balanstraße, turn right into St.-Martin-Straße and immediately before the next traffic light turn right again into the campus of Neue Balan. On the right is the entrance to the garage. Get an access card and drive your car directly up to level 17. At the end of it are our visitor parking lots. Now go down the stairwell to level 5. Take the ramp, pass the entrance gate of the garage and you are back at the entrance. Turn left between the houses and right again to St.-Martin-Str. 114. Go out again to the exit of level 5 and pass the barrier.
+The parking card can be validated at the end of the day at our reception.
+
+With a bit of luck, you can also find a parking space on the St. Martin or on the corner of Balanstraße.
 
 
 #### Map
 
 <div style="overflow:hidden">
-<iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.0598112052485!2d11.652588151496799!3d48.18619907912538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e74c74cfca785%3A0xb774bd7390f72580!2sTNG+Technology+Consulting+GmbH!5e0!3m2!1sde!2sde!4v1487967991164" width="600" height="450" frameborder="0" style="border:0;display:block;margin:0 auto;" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2663.5020115683064!2d11.600626715988403!3d48.11984147922208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479dde061a628823%3A0x36bbe7efc7b41a06!2siteratec+GmbH!5e0!3m2!1sde!2sde!4v1564496811148!5m2!1sde!2sde" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
+<br/> 
 
-#### Hotel
+### Hotel
 
-The <a href="http://www.hotel-the-k.de">Best Western Hotel "The K"</a> is located five walking minutes away from TNG. 
+####JOYN  Munich Rose - Serviced Living<br/>
+Rosenheimer Str. 145K<br/>
+81671 München<br/>
+Reservation via <a href="mailto:hello@joyn-living.com">hello@joyn-living.com</a> <br/>
+Please use promotion code iteratec2019.<br/>
+•	Single room 70 € (+4,90 € for optional breakfast)<br/>
+•	Double room 86 € (+4,90 € for optional breakfast)<br/>
 
-By now we have not organised discounted rooms for the conference. If you're interested feel free to contact us at
+####Hotel BOLD - München Giesing<br/>
+Aschauer Str. 12<br/>
+81549 München<br/>
+Reservation: <a href="http://bold-hotels.com/hotel-muenchen.html">http://bold-hotels.com/hotel-muenchen.html</a><br/> 
+Please use promotion code ITC-19.  <br/>
+•	Single room 70 € including breakfast<br/>
+•	Double room 86 € including breakfast<br/>
+
+
+If you're interested feel free to contact us at
 <a href="mailto:info@swacamp.org">info@swacamp.org<a>.

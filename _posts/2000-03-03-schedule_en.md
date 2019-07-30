@@ -7,10 +7,6 @@ fa-icon: calendar
 
 ## Schedule
 
-For 2018 we are happy to announce our keynote speakers Dr. Gernot Starke and Michael Plöd.
-
-During the conference you can find the schedule <a href="schedule_2018">here</a>. 
-
 Our preliminary schedule:
 
 <table class="schedule">
@@ -19,7 +15,7 @@ Our preliminary schedule:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Arriving</li>
-                <li>09:30 - 10:15 Uhr Keynote: Knigge für Softwarearchitekten (Deutsch)</li>
+                <li>09:30 - 10:15 Uhr Keynote: tba</li>
                 <li>10:30 - 11:00 Uhr Introduction</li>
                 <li>11:00 - 12:00 Uhr Market Place</li>
                 <li>12:00 - 12:30 Uhr Session</li>
@@ -51,4 +47,4 @@ Our preliminary schedule:
     </tr>
 </table>
 
-The schedule and the results of the event in 2017 can be found <a href="schedule_2017">here</a>.
+The schedule and the results of the event in 2018 can be found <a href="schedule_2018">here</a>.

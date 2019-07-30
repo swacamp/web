@@ -7,4 +7,4 @@ fa-icon: check-circle
 
 ## Registration
 
-Unfortunately we are fully booked for this year. Keep your eyes open for next year's SwaCamp :-)
+Registration will be open from September 2nd, 2019.

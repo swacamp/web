@@ -10,4 +10,4 @@ fa-icon: envelope
 Unser Organisationsteam ist gemeinsam über folgende Kanäle erreichbar:
 
 * E-Mail unter <info@swacamp.org>
-* Twitter als [@swacamp](https://twitter.com/swacamp)
+

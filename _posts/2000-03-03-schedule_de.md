@@ -7,10 +7,6 @@ fa-icon: calendar
 
 ## Zeitplan
 
-Für 2018 freuen wir uns bereits auf zwei tolle Keynote-Speaker: Dr. Gernot Starke und Michael Plöd.
-
-Während der Konferenz ist das aktuelle Programm <a href="schedule_2018">hier</a> zu finden.
-
 Unser vorläufiges Programm:
 <table class="schedule">
     <tr>
@@ -18,7 +14,7 @@ Unser vorläufiges Programm:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Ankommen</li>
-                <li>09:30 - 10:15 Uhr Keynote: Knigge für Softwarearchitekten (Deutsch)</li>
+                <li>09:30 - 10:15 Uhr Keynote: tba</li>
                 <li>10:30 - 11:00 Uhr Begrüßung</li>
                 <li>11:00 - 12:00 Uhr Marktplatz</li>
                 <li>12:00 - 13:00 Uhr Session</li>
@@ -50,4 +46,4 @@ Unser vorläufiges Programm:
     </tr>
 </table>
 
-Der Zeitplan und die Ergebnisse der Veranstaltung 2017 sind <a href="schedule_2017">hier</a> zu finden.
+Der Zeitplan und die Ergebnisse der Veranstaltung 2018 sind <a href="schedule_2018">hier</a> zu finden.

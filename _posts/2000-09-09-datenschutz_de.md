@@ -20,7 +20,7 @@ Handelsregister-Nummer: HRB 113519 <br/>
 Geschäftsführer: Klaus Eberhardt, Mark Goerke, Michael Schulz<br/> 
 Telefonnummer: +49 89 61 45 51 0 <br/>
 Mailadresse: info@iteratec.com  <br/>
-<p>
+</p>
 
 
 #### Datenschutzbeauftragter 

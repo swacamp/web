@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-bg: '#63BD2F'
+bg: '#f760e8'
 color: white
 fa-icon: info
 ---
@@ -18,7 +18,7 @@ E-Mail: info@iteratec.com <br/>
 Geschäftsführer: Klaus Eberhardt, Mark Goerke, Michael Schulz<br/> 
 Sitz und Registergericht München HRB 113 519 <br/>
 Umsatzsteueridentifikationsnummer: DE 180825431 <br/>
-<p>
+</p>
 
 
 #### Inhaltlich Verantwortlicher gemäß § 55 RStV

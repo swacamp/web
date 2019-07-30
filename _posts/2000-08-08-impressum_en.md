@@ -18,7 +18,7 @@ E-Mail: info@iteratec.com <br/>
 Managing directors: Klaus Eberhardt, Mark Goerke, Michael Schulz<br/>
 Registered seat and court of registration: Munich HRB 113 519 <br/>
 VAT-ID No.: DE 180825431 <br/>
-<p>
+</p>
 
 
 #### Person responsible for the contents in accordance with s. 55 RStV (Germany):

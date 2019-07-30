@@ -14,7 +14,7 @@ St.-Martin-Straße 114<br/>
 81669 München <br/>
 Germany<br/>
 Phone: 089 / 61 45 51 - 0
-<p>
+</p>
 
 
 #### By Suburban Train or Bus
@@ -41,6 +41,7 @@ With a bit of luck, you can also find a parking space on the St. Martin or on th
 <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2660.0598112052485!2d11.652588151496799!3d48.18619907912538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e74c74cfca785%3A0xb774bd7390f72580!2sTNG+Technology+Consulting+GmbH!5e0!3m2!1sde!2sde!4v1487967991164" width="600" height="450" frameborder="0" style="border:0;display:block;margin:0 auto;" allowfullscreen></iframe>
 </div>
 
+<br/> 
 
 ### Hotel
 

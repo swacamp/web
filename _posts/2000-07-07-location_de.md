@@ -9,7 +9,7 @@ fa-icon: map-marker
 
 #### Adresse
 
-<p>iteratec GmbH, <a href="https:www.iteratec.de">https:www.iteratec.de</a><br/>
+<p>iteratec GmbH, <a href="https://www.iteratec.de">https://www.iteratec.de</a><br/>
 St.-Martin-Straße 114<br/>
 81669 München <br/>
 Deutschland<br/>

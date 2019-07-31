@@ -1,6 +1,6 @@
 <br/>
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV bzw. Angaben gemäß § 5 TMG:
-<p>iteratec GmbH, <a href="https:www.iteratec.de">https:www.iteratec.de</a><br/>
+<p>iteratec GmbH, <a href="https://www.iteratec.de">https://www.iteratec.de</a><br/>
 St.-Martin-Straße 114<br/>
 81669 München <br/>
 Telefon: 089 / 614551-0<br/> 

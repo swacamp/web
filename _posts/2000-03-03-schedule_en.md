@@ -29,7 +29,7 @@ Our preliminary schedule:
         </td>
     </tr>
     <tr>
-        <td class="day">Samstag</td>
+        <td class="day">Saturday</td>
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Breakfast</li>

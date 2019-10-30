@@ -20,7 +20,7 @@ fit into which layer and reuse some of the context maps patterns but I will also
 that have not been described in the classic Domain-driven Design books.
 
 _Michael Plöd is Principal Consultant at innoQ. His current topics of interest are Microservices, 
-Domain-driven Design, polyglot pesistences, alternatives to old style software architectures, 
+Domain-driven Design, polyglot persistences, alternatives to old style software architectures, 
 Event Sourcing and presentation techniques for developers and architects._
 
 

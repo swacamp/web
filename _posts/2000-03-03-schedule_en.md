@@ -15,7 +15,7 @@ Our preliminary schedule:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Arriving</li>
-                <li>09:30 - 10:15 Uhr Keynote: tba</li>
+                <li>09:30 - 10:15 Uhr Keynote - A new way of mapping sociotechnical architectures</li>
                 <li>10:30 - 11:00 Uhr Introduction</li>
                 <li>11:00 - 12:00 Uhr Market Place</li>
                 <li>12:00 - 12:30 Uhr Session</li>
@@ -33,7 +33,7 @@ Our preliminary schedule:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Breakfast</li>
-                <li>09:30 - 10:15 Uhr Keynote</li>
+                <li>09:30 - 10:15 Uhr Keynote - Beyond the hype: A practical look at models of self-organization</li>
                 <li>10:30 - 11:30 Uhr Market Place</li>
                 <li>11:30 - 12:30 Uhr Session</li>
                 <li>12:30 - 13:30 Uhr Lunch</li>

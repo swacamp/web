@@ -14,7 +14,7 @@ Unser vorläufiges Programm:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Ankommen</li>
-                <li>09:30 - 10:15 Uhr Keynote: tba</li>
+                <li>09:30 - 10:15 Uhr Keynote - A new way of mapping sociotechnical architectures</li>
                 <li>10:30 - 11:00 Uhr Begrüßung</li>
                 <li>11:00 - 12:00 Uhr Marktplatz</li>
                 <li>12:00 - 13:00 Uhr Session</li>
@@ -32,7 +32,7 @@ Unser vorläufiges Programm:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Frühstück</li>
-                <li>09:30 - 10:15 Uhr Keynote</li>
+                <li>09:30 - 10:15 Uhr Keynote - Beyond the hype: A practical look at models of self-organization</li>
                 <li>10:30 - 11:30 Uhr Marktplatz</li>
                 <li>11:30 - 12:30 Uhr Session</li>
                 <li>12:30 - 13:30 Uhr Mittagessen</li>

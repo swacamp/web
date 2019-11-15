@@ -47,4 +47,4 @@ Our preliminary schedule:
     </tr>
 </table>
 
-The schedule and the results of the event in 2018 can be found <a href="schedule_2018">here</a>.
+The schedule and the results of the event in 2019 can be found <a href="schedule_2019">here</a>.

@@ -46,4 +46,4 @@ Unser vorläufiges Programm:
     </tr>
 </table>
 
-Der Zeitplan und die Ergebnisse der Veranstaltung 2018 sind <a href="schedule_2018">hier</a> zu finden.
+Der Zeitplan und die Ergebnisse der Veranstaltung 2019 sind <a href="schedule_2019">hier</a> zu finden.

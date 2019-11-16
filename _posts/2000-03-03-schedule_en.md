@@ -7,24 +7,25 @@ fa-icon: calendar
 
 ## Schedule
 
-Our preliminary schedule:
+Our schedule:
 
 <table class="schedule">
     <tr>
         <td class="day">Friday</td>
         <td>
             <ul>
-                <li>09:00 - 09:30 Uhr Arriving</li>
-                <li>09:30 - 10:15 Uhr Keynote - A new way of mapping sociotechnical architectures</li>
-                <li>10:30 - 11:00 Uhr Introduction</li>
-                <li>11:00 - 12:00 Uhr Market Place</li>
-                <li>12:00 - 12:30 Uhr Session</li>
-                <li>13:00 - 14:00 Uhr Lunch</li>
-                <li>14:00 - 15:00 Uhr Session</li>
-                <li>15:15 - 16:15 Uhr Session</li>
-                <li>16:25 - 17:25 Uhr Session</li>
-                <li>17:25 - 18:00 Uhr Closing</li>
-                <li>from 18:00 Uhr Socializing</li>
+                <li>09:00h - 09:15h Registration</li>
+                <li>09:15h - 09:30h Introduction</li>
+                <li>09:30h - 10:20h Keynote - A new way of mapping sociotechnical architectures</li>
+                <li>10:30h - 11:20h Market Place</li>
+                <li>11:30h - 12:20h Session #1</li>
+                <li>12:30h - 13:30h Lunch break</li>
+                <li>13:30h - 14:20h Session #2</li>
+                <li>14:30h - 15:20h Session #3</li>
+                <li>15:30h - 16:20h Session #4</li>
+                <li>16:30h - 17:20h Session #5</li>
+                <li>17:30h - 18:00h Closing</li>
+                <li>from 18:00h Socializing and Evening Activities</li>
             </ul>
         </td>
     </tr>
@@ -32,16 +33,15 @@ Our preliminary schedule:
         <td class="day">Saturday</td>
         <td>
             <ul>
-                <li>09:00 - 09:30 Uhr Breakfast</li>
-                <li>09:30 - 10:15 Uhr Keynote - Beyond the hype: A practical look at models of self-organization</li>
-                <li>10:30 - 11:30 Uhr Market Place</li>
-                <li>11:30 - 12:30 Uhr Session</li>
-                <li>12:30 - 13:30 Uhr Lunch</li>
-                <li>13:30 - 14:30 Uhr Session</li>
-                <li>14:45 - 15:45 Uhr Session</li>
-                <li>15:50 - 16:20 Uhr Session</li>
-                <li>16:20 - 17:20 Uhr Closing the conference</li>
-                <li>afterwards: Sozialicing</li>
+                <li>09:00h - 09:30h Breakfast</li>
+                <li>09:30h - 10:20h Keynote - Beyond the hype: A practical look at models of self-organization</li>
+                <li>10:30h - 11:20h Market Place</li>
+                <li>11:30h - 12:20h Session #1</li>
+                <li>12:30h - 13:30h Lunch break</li>
+                <li>13:30h - 14:20h Session #2</li>
+                <li>14:30h - 15:20h Session #3</li>
+                <li>15:30h - 16:20h Session #4</li>
+                <li>16:30h - 17:30h Closing the conference</li>
             </ul>
         </td>
     </tr>

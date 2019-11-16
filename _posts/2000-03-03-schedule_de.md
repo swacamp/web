@@ -7,23 +7,24 @@ fa-icon: calendar
 
 ## Zeitplan
 
-Unser vorläufiges Programm:
+Unser Programm:
 <table class="schedule">
     <tr>
         <td class="day">Freitag</td>
         <td>
             <ul>
-                <li>09:00 - 09:30 Uhr Ankommen</li>
-                <li>09:30 - 10:15 Uhr Keynote - A new way of mapping sociotechnical architectures</li>
-                <li>10:30 - 11:00 Uhr Begrüßung</li>
-                <li>11:00 - 12:00 Uhr Marktplatz</li>
-                <li>12:00 - 13:00 Uhr Session</li>
-                <li>13:00 - 14:00 Uhr Mittagessen</li>
-                <li>14:00 - 15:00 Uhr Session</li>
-                <li>15:15 - 16:15 Uhr Session</li>
-                <li>16:25 - 17:25 Uhr Session</li>
-                <li>17:25 - 18:00 Uhr Abschluss</li>
-                <li>ab 18:00 Uhr gemütlicher Ausklang</li>
+                <li>09:00 - 09:15 Uhr Registrierung</li>
+                <li>09:15 - 09:30 Uhr Begrüßung</li>
+                <li>09:30 - 10:20 Uhr Keynote - A new way of mapping sociotechnical architectures</li>
+                <li>10:30 - 11:20 Uhr Marktplatz</li>
+                <li>11:30 - 12:20 Uhr Session #1</li>
+                <li>12:30 - 13:30 Uhr Mittagessen</li>
+                <li>13:30 - 14:20 Uhr Session #2</li>
+                <li>14:30 - 15:20 Uhr Session #3</li>
+                <li>15:30 - 16:20 Uhr Session #4</li>
+                <li>16:30 - 17:20 Uhr Session #5</li>
+                <li>17:30 - 18:00 Uhr Abschluss</li>
+                <li>ab 18:00 Uhr Ausklang und Abendprogramm</li>
             </ul>
         </td>
     </tr>
@@ -32,15 +33,14 @@ Unser vorläufiges Programm:
         <td>
             <ul>
                 <li>09:00 - 09:30 Uhr Frühstück</li>
-                <li>09:30 - 10:15 Uhr Keynote - Beyond the hype: A practical look at models of self-organization</li>
-                <li>10:30 - 11:30 Uhr Marktplatz</li>
-                <li>11:30 - 12:30 Uhr Session</li>
+                <li>09:30 - 10:20 Uhr Keynote - Beyond the hype: A practical look at models of self-organization</li>
+                <li>10:30 - 11:20 Uhr Marktplatz</li>
+                <li>11:30 - 12:20 Uhr Session #1</li>
                 <li>12:30 - 13:30 Uhr Mittagessen</li>
-                <li>13:30 - 14:30 Uhr Session</li>
-                <li>14:45 - 15:45 Uhr Session</li>
-                <li>15:50 - 16:20 Uhr Session</li>
-                <li>16:20 - 17:20 Uhr Abschluss der Konferenz</li>
-                <li>danach: gemütlicher Ausklang</li>
+                <li>13:30 - 14:20 Uhr Session #2</li>
+                <li>14:30 - 15:20 Uhr Session #3</li>
+                <li>15:30 - 16:20 Uhr Session #4</li>
+                <li>16:30 - 17:30 Uhr Abschluss der Konferenz</li>
             </ul>
         </td>
     </tr>

@@ -28,10 +28,9 @@ ist der Bus Linie 145 Richtung Fasangarten, auch vom Ostbahnhof aus. Hier der Au
 #### Mit dem Auto
 
 St.-Martin-Straße 114, 81669 in das Navigationsgerät eingeben. Der schnellste Weg über eine der Autobahnen ist die A 94.
-Fahren Sie über die Balanstraße, biegen Sie rechts in die St.-Martin-Straße ein und gleich darauf vor der nächsten Ampel wieder rechts ins Gelände des Campus Neue Balan. Rechts befindet sich die Einfahrt zur Garage. Ziehen Sie sich eine Zufahrtskarte und fahren Sie mit Ihrem Auto direkt
-hinauf zu Ebene 17. An deren Ende befinden sich unsere Besucherparkplätze. Begeben Sie sich nun im Treppenhaus bis Ebene 5 hinunter. Nehmen Sie die Rampe, passieren die Einfahrtsschranke der Garage und Sie stehen wieder an der Einfahrt. Wenden Sie sich nach links zwischen den Häusern hindurch und gleich wieder rechts bis zur St.-Martin-Str. 114. Heraus fahren Sie wieder zum Ausgang der Ebene 5 und passieren die Schranke.
-Die Parkkarte können Sie am Ende des Tages an unserem Empfang entwerten lassen. 
-Mit ein bisschen Glück finden Sie auch auf der St.-Martin- oder Balanstraße am Rand einen Parkplatz. 
+In der Umgebung gibt es wenige Parkplätze. Daher empfehlen wir Ihnen die Anreise mit der Bahn. Mit ein bisschen Glück finden Sie aber auch auf der St.-Martin- oder Balanstraße am Rand einen Parkplatz. 
+
+In der Nähe ist ebenfalls ein kostenpflichtiges Parkhaus vorhanden. Fahren Sie über die Balanstraße, biegen Sie rechts in die St.-Martin-Straße ein und gleich darauf vor der nächsten Ampel wieder rechts ins Gelände des Campus Neue Balan. Rechts befindet sich die Einfahrt zur Garage.
 
 
 #### Karte

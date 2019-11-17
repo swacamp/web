@@ -27,12 +27,9 @@ Even closer is the bus line 145 direction Fasangarten, also from the Ostbahnhof.
 
 #### By Car
 
-Enter St.-Martin-Straße 114, 81669 into the navigation device. The fastest way via one of the motorways is the A94.
+Enter St.-Martin-Straße 114, 81669 into the navigation device. The fastest way via one of the motorways is the A94. There are few parking spaces in the area. Therefore we recommend you to travel by train. With a bit of luck, you can also find a parking lot on the St. Martin or Balanstraße on the edge.
 
-Drive over Balanstraße, turn right into St.-Martin-Straße and immediately before the next traffic light turn right again into the campus of Neue Balan. On the right is the entrance to the garage. Get an access card and drive your car directly up to level 17. At the end of it are our visitor parking lots. Now go down the stairwell to level 5. Take the ramp, pass the entrance gate of the garage and you are back at the entrance. Turn left between the houses and right again to St.-Martin-Str. 114. Go out again to the exit of level 5 and pass the barrier.
-The parking card can be validated at the end of the day at our reception.
-
-With a bit of luck, you can also find a parking space on the St. Martin or on the corner of Balanstraße.
+Nearby is also a paid parking garage available. Drive over Balanstraße, turn right into St.-Martin-Straße and immediately before the next traffic light turn right again into the campus of Neue Balan. On the right is the entrance to the garage. 
 
 
 #### Map
